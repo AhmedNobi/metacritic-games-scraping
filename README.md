@@ -1,2 +1,2 @@
-# metacritic-game-scraping
+# metacritic-games-scraping
 Metacritic Games scraping
